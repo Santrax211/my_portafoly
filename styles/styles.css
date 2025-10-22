@@ -20,12 +20,12 @@
     --border-radius: 2rem;
   }*/
   :root {
-    --bg-color: #f0f4f8; /* Azul grisáceo claro */
-    --second-color: #d9e2ec; /* Azul pastel */
-    --text-color: #334e68; /* Azul oscuro */
-    --main-color: #ff6b6b; /* Rojo coral vibrante */
-    --other-color: #4e89ae; /* Azul intermedio */
-    --shadow-color: rgba(0, 0, 0, 0.15); /* Sombra más pronunciada */
+    --bg-color: #f0f4f8; 
+    --second-color: #d9e2ec; 
+    --text-color: #334e68; 
+    --main-color: #ff6b6b;
+    --other-color: #4e89ae; 
+    --shadow-color: rgba(0, 0, 0, 0.15); 
     --transition: all 0.3s ease;
     --border-radius: 1.5rem;
 }
